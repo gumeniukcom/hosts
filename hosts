@@ -1,0 +1,12 @@
+# Title: gumeniukcom/hosts
+#
+# This hosts file for blocking bad recources
+#
+#
+# Project home page: https://github.com/gumeniukcom/hosts
+#
+# ===============================================================
+
+
+# Apple 
+127.0.0.1 ocsp.apple.com
